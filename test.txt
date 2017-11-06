@@ -1,2 +1,1 @@
-﻿test document测试文档
-你好
+﻿你好
